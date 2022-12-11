@@ -1,5 +1,4 @@
-# Paolinsky Weather app
-
+WhenWearWeather
 Weather app made using swiftUI, Lottie animations and the openweather api (https://openweathermap.org/api/one-call-api)
 
 ## Setup
